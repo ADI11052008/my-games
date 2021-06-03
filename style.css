@@ -1,0 +1,29 @@
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+
+}
+.grid{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+.item{
+
+display: flex;
+ border-style: solid;
+ border-width: 2;
+
+}
+p{
+    color: blue;
+    font-size: 21;
+}
+body{
+   
+    background-color: aqua;
+}
